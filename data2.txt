@@ -1,4 +1,3 @@
-
 {"key" : "tRNA binding",	"value" : "23.995750153580012", "date" : "01/09/13"},
 {"key" : "succinate dehydrogenase activity",	"value" : "24.952957880526125", "date" : "01/09/13"},
 {"key" : "magnesium ion binding",	"value" : "24.599483588724127", "date" : "01/09/13"},
